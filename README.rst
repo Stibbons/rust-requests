@@ -11,6 +11,7 @@ Features
 - Easy to use, clear as crystal API syntax
 - International Domains and URLs
 - Keep-Alive
+- Session automatically closed on server Fin/Ack
 - Connection Pooling
 - Sessions with Cookie Persistence
 - Basic/Digest Authentication
@@ -18,8 +19,7 @@ Features
 - Unicode Response Bodies
 - Multipart File Uploads
 - Connection Timeouts
-- .netrc support
-- Elegant Key/Value Cookies
+- .netrc support and manual proxy support
 
 Wanted
 ======
