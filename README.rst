@@ -10,13 +10,15 @@ Features
 
 - Asynchronous request, using a configurable number of task count
 - Easy to use, clear as crystal API syntax
+- Reuse same socket connection for multiple requests
+- Connection Pooling
 - International Domains and URLs
 - Keep-Alive
 - Session automatically closed on server Fin/Ack
-- Connection Pooling
 - Sessions with Cookie Persistence
 - Basic/Digest Authentication
-- Automatic Decompression
+- Automatic Decompression (Gzip and deflate)
+- File posting
 - Unicode Response Bodies
 - Multipart File Uploads
 - Connection Timeouts
