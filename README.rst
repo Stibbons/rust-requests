@@ -6,6 +6,7 @@ Full featured asynchroneous HTTP library for Rust.
 
 Features
 ========
+
 - Asynchronous request, using a configurable number of task count
 - Easy to use, clear as crystal API syntax
 - International Domains and URLs
@@ -22,6 +23,7 @@ Features
 
 Wanted
 ======
+
 - Browser-style SSL Verification
 
 
